@@ -18,5 +18,4 @@ func BigBark() string {
 
 func BigBarks() string {
 	return godog.WhenGrownUp("Woof! Woof! Woof!")
-
 }
