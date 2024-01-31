@@ -1,2 +1,4 @@
 github.com/yuvalom/go-dog v0.0.0-20240131073202-529cba7ba225 h1:yf4f8QEcVetSyWLRdAAcOq/3XtJNbejs12q8cGXvOVs=
 github.com/yuvalom/go-dog v0.0.0-20240131073202-529cba7ba225/go.mod h1:yO7jqaluTTSoWScCSlxmj/z8HzjMyfw4T7VIaDmxLK8=
+github.com/yuvalom/go-dog v1.0.0 h1:1S4L9RYUKUAPgT8qlHWluauLZGbBZeJBEeRhMEUMcTM=
+github.com/yuvalom/go-dog v1.0.0/go.mod h1:yO7jqaluTTSoWScCSlxmj/z8HzjMyfw4T7VIaDmxLK8=
