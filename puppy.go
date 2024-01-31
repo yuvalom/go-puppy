@@ -23,3 +23,7 @@ func BigBarks() string {
 func From1_1_0() string {
 	return godog.WhenGrownUp("I am from version 1.1.0")
 }
+
+func From1_1_1() string {
+	return godog.WhenGrownUp("I am from version 1.1.1")
+}
