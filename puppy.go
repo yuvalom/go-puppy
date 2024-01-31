@@ -15,3 +15,7 @@ func Barks() string {
 func BigBark() string {
 	return godog.WhenGrownUp("Woof!")
 }
+
+func BigBarks() string {
+	return godog.WhenGrownUp("Woof! Woof! Woof!")
+}
